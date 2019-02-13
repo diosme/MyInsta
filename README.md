@@ -1,5 +1,4 @@
-# duo
-
+# MyInsta
 A new Flutter project.
 
 ## Getting Started
