@@ -15,7 +15,7 @@ A new Flutter project.
   <img src="https://github.com/satishsoni777/MyInsta/blob/master/assets/Screenshot_2019-02-13-14-47-05-434_com.example.duo.png" width="350" title="hover text">
 </p>
 
-<h1 project is still in progress h1>
+# project is still in progress 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
