@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "207219807399",
+    "firebase_url": "https://duoapp-6b7cb.firebaseio.com",
+    "project_id": "duoapp-6b7cb",
+    "storage_bucket": "duoapp-6b7cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207219807399:android:8238cfb40ea7b589",
+        "android_client_info": {
+          "package_name": "com.example.duo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207219807399-o7u227j6sfa0b794j8bq138skj8h2iah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.duo",
+            "certificate_hash": "a679a046953abeb33680420861ec80d61214e95b"
+          }
+        },
+        {
+          "client_id": "207219807399-bdu7c5ammr41reifjoujdh268dmho8tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArTU6ivl1TNoGLW_FxxqrnGdu0AYIWwCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207219807399-bdu7c5ammr41reifjoujdh268dmho8tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
