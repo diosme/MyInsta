@@ -4,9 +4,7 @@ A new Flutter project.
 <p align="center">
   <img src="https://github.com/satishsoni777/MyInsta/blob/master/assets/Screenshot_2019-02-13-16-03-34-402_com.google.android.gms.png" width="350" title="hover text">
 </p>
-<p align="center">
-  <img src="https://github.com/satishsoni777/MyInsta/blob/master/assets/Screenshot_2019-02-13-14-45-55-906_com.example.duo.png" width="350" title="hover text">
-</p>
+
 
 <p align="center">
   <img src="https://github.com/satishsoni777/MyInsta/blob/master/assets/Screenshot_2019-02-13-14-46-47-846_com.example.duo.png" width="350" title="hover text">
