@@ -2,7 +2,7 @@
 A new Flutter project.
 # log in page
 <p align="center">
-  <
+  <img src="
 https://github.com/satishsoni777/MyInsta/blob/master/assets/Screenshot_2019-02-13-16-03-34-402_com.google.android.gms.png" width="350" title="hover text">
 </p>
 <p align="center">
