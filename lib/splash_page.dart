@@ -92,7 +92,7 @@ class _SplashPageState extends State<SplashPage> {
                   baseColor: Colors.red,
                   highlightColor: Colors.yellow,
                   child: Text(
-                    'Duo',
+                    'MyInsta',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontSize: 40.0,
